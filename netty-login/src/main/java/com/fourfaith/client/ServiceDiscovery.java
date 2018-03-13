@@ -44,6 +44,7 @@ public class ServiceDiscovery {
                 data = dataList.get(0);
             } else {
                 //随机获取其中的一个
+                //负载均衡策略可以自定义
                 data = dataList.get(ThreadLocalRandom.current().nextInt(size));
             }
         }

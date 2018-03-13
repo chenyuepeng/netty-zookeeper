@@ -20,9 +20,6 @@ public class ClientMain {
     public static void main(String[] args) throws InterruptedException {
         //find service from zookeeper
         ServiceDiscovery sd = new ServiceDiscovery(zkAddress, zkSessionTimeout);
-
-
-
         String serverIp = sd.discover();
         logger.info("get server addr: " + serverIp);
     }
