@@ -1,0 +1,10 @@
+2018-02-06 09:11:50 WARN [org.apache.zookeeper.ClientCnxn] Client session timed out, have not heard from server in 2666ms for sessionid 0x16163876dc5002a
+2018-02-06 09:11:50 INFO [org.apache.zookeeper.ClientCnxn] Client session timed out, have not heard from server in 2666ms for sessionid 0x16163876dc5002a, closing socket connection and attempting reconnect
+2018-02-06 09:11:51 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-06 09:11:55 WARN [org.apache.zookeeper.ClientCnxn] Client session timed out, have not heard from server in 5045ms for sessionid 0x16163876dc5002a
+2018-02-06 09:11:55 INFO [org.apache.zookeeper.ClientCnxn] Client session timed out, have not heard from server in 5045ms for sessionid 0x16163876dc5002a, closing socket connection and attempting reconnect
+2018-02-06 09:11:57 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-06 09:11:57 INFO [org.apache.zookeeper.ClientCnxn] Socket connection established to 192.168.9.231/192.168.9.231:2181, initiating session
+2018-02-06 09:11:57 WARN [org.apache.zookeeper.ClientCnxn] Unable to reconnect to ZooKeeper service, session 0x16163876dc5002a has expired
+2018-02-06 09:11:57 INFO [org.apache.zookeeper.ClientCnxn] Unable to reconnect to ZooKeeper service, session 0x16163876dc5002a has expired, closing socket connection
+2018-02-06 09:11:57 INFO [org.apache.zookeeper.ClientCnxn] EventThread shut down for session: 0x16163876dc5002a

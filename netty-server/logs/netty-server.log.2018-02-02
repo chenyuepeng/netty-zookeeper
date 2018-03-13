@@ -1,0 +1,354 @@
+2018-02-02 14:20:18 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:26:39 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.8\zookeeper-3.4.8.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.7.0.Final\netty-3.7.0.Final.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:26:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:26:41 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=null sessionTimeout=5000 watcher=com.fourfaith.registry.ServerRegistry$1@7f283000
+2018-02-02 16:30:08 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:30:40 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.8--1, built on 02/06/2016 03:18 GMT
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.8\zookeeper-3.4.8.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.16\log4j-1.2.16.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.7.0.Final\netty-3.7.0.Final.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:30:40 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=null sessionTimeout=5000 watcher=com.fourfaith.registry.ServerRegistry$1@3602babb
+2018-02-02 16:37:52 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:37:52 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=null sessionTimeout=5000 watcher=com.fourfaith.registry.ServerRegistry$1@3c5f1d5c
+2018-02-02 16:39:06 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:39:06 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=null sessionTimeout=5000 watcher=com.fourfaith.registry.ServerRegistry$1@3c5f1d5c
+2018-02-02 16:42:39 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:43:23 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=127.0.0.1:2181 sessionTimeout=5000 watcher=com.fourfaith.registry.ServerRegistry$1@1bc9e
+2018-02-02 16:43:23 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:24 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:26 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:27 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:28 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:29 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:30 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:31 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:32 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:33 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:34 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:35 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:36 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:37 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:38 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:39 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:40 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:41 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:43 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:44 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:45 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:46 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:47 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 127.0.0.1/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:48 WARN [org.apache.zookeeper.ClientCnxn] Session 0x0 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:43:54 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=192.168.9.231:2181 sessionTimeout=5000 watcher=com.fourfaith.registry.ServerRegistry$1@70c98e12
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ClientCnxn] Socket connection established to 192.168.9.231/192.168.9.231:2181, initiating session
+2018-02-02 16:43:54 INFO [org.apache.zookeeper.ClientCnxn] Session establishment complete on server 192.168.9.231/192.168.9.231:2181, sessionid = 0x16155a334160000, negotiated timeout = 5000
+2018-02-02 16:43:55 INFO [com.fourfaith.registry.ServerRegistry] path = /registry/data0000000000,data = 192.168.9.71:19012
+2018-02-02 16:44:08 WARN [org.apache.zookeeper.ClientCnxn] Session 0x16155a334160000 for server 192.168.9.231/192.168.9.231:2181, unexpected error, closing socket connection and attempting reconnect
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doIO(ClientCnxnSocketNIO.java:68)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:366)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:44:09 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:44:10 WARN [org.apache.zookeeper.ClientCnxn] Session 0x16155a334160000 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:44:11 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:44:12 WARN [org.apache.zookeeper.ClientCnxn] Session 0x16155a334160000 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:44:14 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:44:15 WARN [org.apache.zookeeper.ClientCnxn] Session 0x16155a334160000 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:44:17 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:44:18 WARN [org.apache.zookeeper.ClientCnxn] Session 0x16155a334160000 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:44:28 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=192.168.9.231:2181 sessionTimeout=5000 watcher=com.fourfaith.registry.ServerRegistry$1@3c5f1d5c
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ClientCnxn] Socket connection established to 192.168.9.231/192.168.9.231:2181, initiating session
+2018-02-02 16:44:29 INFO [org.apache.zookeeper.ClientCnxn] Session establishment complete on server 192.168.9.231/192.168.9.231:2181, sessionid = 0x16155b139680000, negotiated timeout = 5000
+2018-02-02 16:44:29 INFO [com.fourfaith.registry.ServerRegistry] path = /registry/data0000000001,data = 192.168.9.71:19012
+2018-02-02 16:48:52 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=192.168.9.231:2181 sessionTimeout=3000 watcher=com.fourfaith.registry.ServerRegistry$1@18260ffc
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ClientCnxn] Socket connection established to 192.168.9.231/192.168.9.231:2181, initiating session
+2018-02-02 16:48:52 INFO [org.apache.zookeeper.ClientCnxn] Session establishment complete on server 192.168.9.231/192.168.9.231:2181, sessionid = 0x16155b139680001, negotiated timeout = 4000
+2018-02-02 16:48:52 INFO [com.fourfaith.registry.ServerRegistry] path = /registry/data0000000002,data = 192.168.9.71:19012
+2018-02-02 16:49:08 WARN [org.apache.zookeeper.ClientCnxn] Session 0x16155b139680001 for server 192.168.9.231/192.168.9.231:2181, unexpected error, closing socket connection and attempting reconnect
+java.io.IOException: 远程主机强迫关闭了一个现有的连接。
+	at sun.nio.ch.SocketDispatcher.read0(Native Method)
+	at sun.nio.ch.SocketDispatcher.read(SocketDispatcher.java:43)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:192)
+	at sun.nio.ch.SocketChannelImpl.read(SocketChannelImpl.java:379)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doIO(ClientCnxnSocketNIO.java:68)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:366)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:49:09 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:49:10 WARN [org.apache.zookeeper.ClientCnxn] Session 0x16155b139680001 for server null, unexpected error, closing socket connection and attempting reconnect
+java.net.ConnectException: Connection refused: no further information
+	at sun.nio.ch.SocketChannelImpl.checkConnect(Native Method)
+	at sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:716)
+	at org.apache.zookeeper.ClientCnxnSocketNIO.doTransport(ClientCnxnSocketNIO.java:361)
+	at org.apache.zookeeper.ClientCnxn$SendThread.run(ClientCnxn.java:1141)
+2018-02-02 16:49:12 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:49:21 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=192.168.9.231:2181 sessionTimeout=3000 watcher=com.fourfaith.registry.ServerRegistry$1@70c98e12
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ClientCnxn] Socket connection established to 192.168.9.231/192.168.9.231:2181, initiating session
+2018-02-02 16:49:21 INFO [org.apache.zookeeper.ClientCnxn] Session establishment complete on server 192.168.9.231/192.168.9.231:2181, sessionid = 0x16155b5b7800000, negotiated timeout = 4000
+2018-02-02 16:49:21 INFO [com.fourfaith.registry.ServerRegistry] path = /registry/data0000000003,data = 192.168.9.71:19012
+2018-02-02 17:13:58 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=192.168.9.231:2181 sessionTimeout=3000 watcher=com.fourfaith.registry.ServerRegistry$1@13ddb55d
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ClientCnxn] Socket connection established to 192.168.9.231/192.168.9.231:2181, initiating session
+2018-02-02 17:13:59 INFO [org.apache.zookeeper.ClientCnxn] Session establishment complete on server 192.168.9.231/192.168.9.231:2181, sessionid = 0x16155b5b7800001, negotiated timeout = 4000
+2018-02-02 17:13:59 INFO [com.fourfaith.registry.ServerRegistry] path = /registry/data0000000004,data = 192.168.9.71:19012
+2018-02-02 17:17:12 INFO [com.fourfaith.server.NettyServer] Server binding port [19012].
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:zookeeper.version=3.4.9-1757313, built on 08/23/2016 06:50 GMT
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:host.name=windows10.microdone.cn
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.version=1.8.0_25
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.vendor=Oracle Corporation
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.home=C:\Java\jdk1.8.0_25\jre
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.class.path=C:\Java\jdk1.8.0_25\jre\lib\charsets.jar;C:\Java\jdk1.8.0_25\jre\lib\deploy.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\access-bridge-64.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\cldrdata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\dnsns.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jaccess.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\jfxrt.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\localedata.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\nashorn.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunec.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunjce_provider.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunmscapi.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\sunpkcs11.jar;C:\Java\jdk1.8.0_25\jre\lib\ext\zipfs.jar;C:\Java\jdk1.8.0_25\jre\lib\javaws.jar;C:\Java\jdk1.8.0_25\jre\lib\jce.jar;C:\Java\jdk1.8.0_25\jre\lib\jfr.jar;C:\Java\jdk1.8.0_25\jre\lib\jfxswt.jar;C:\Java\jdk1.8.0_25\jre\lib\jsse.jar;C:\Java\jdk1.8.0_25\jre\lib\management-agent.jar;C:\Java\jdk1.8.0_25\jre\lib\plugin.jar;C:\Java\jdk1.8.0_25\jre\lib\resources.jar;C:\Java\jdk1.8.0_25\jre\lib\rt.jar;E:\IntelliJ Work\netty\netty-server\target\classes;C:\Users\Administrator\.m2\repository\io\netty\netty-all\4.0.24.Final\netty-all-4.0.24.Final.jar;C:\Users\Administrator\.m2\repository\org\apache\zookeeper\zookeeper\3.4.9\zookeeper-3.4.9.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-api\1.6.1\slf4j-api-1.6.1.jar;C:\Users\Administrator\.m2\repository\org\slf4j\slf4j-log4j12\1.6.1\slf4j-log4j12-1.6.1.jar;C:\Users\Administrator\.m2\repository\jline\jline\0.9.94\jline-0.9.94.jar;C:\Users\Administrator\.m2\repository\io\netty\netty\3.10.5.Final\netty-3.10.5.Final.jar;C:\Users\Administrator\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;D:\java\intellij\IntelliJ IDEA 2017.2\lib\idea_rt.jar
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.library.path=C:\Java\jdk1.8.0_25\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;D:\java\kafka\zookeeper-3.4.9\bin;C:\Java\jdk1.8.0_25\bin;C:\Java\jdk1.8.0_25\jre\bin;C:\Java\redis;D:\java\apache-maven-3.0.5\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;D:\Program Files\TortoiseSVN\bin;D:\cygwin64\bin;.
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.io.tmpdir=C:\Users\ADMINI~1\AppData\Local\Temp\
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:java.compiler=<NA>
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.name=Windows 7
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.arch=amd64
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:os.version=6.1
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.name=Administrator
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.home=C:\Users\Administrator
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Client environment:user.dir=E:\IntelliJ Work\netty\netty-server
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ZooKeeper] Initiating client connection, connectString=192.168.9.231:2181 sessionTimeout=3000 watcher=com.fourfaith.registry.ServerRegistry$1@4ee73b2a
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ClientCnxn] Opening socket connection to server 192.168.9.231/192.168.9.231:2181. Will not attempt to authenticate using SASL (unknown error)
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ClientCnxn] Socket connection established to 192.168.9.231/192.168.9.231:2181, initiating session
+2018-02-02 17:17:21 INFO [org.apache.zookeeper.ClientCnxn] Session establishment complete on server 192.168.9.231/192.168.9.231:2181, sessionid = 0x16155b5b7800002, negotiated timeout = 4000
+2018-02-02 17:17:22 INFO [com.fourfaith.registry.ServerRegistry] path = /registry/data0000000005,data = 192.168.9.71:19012
